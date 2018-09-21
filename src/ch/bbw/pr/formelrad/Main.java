@@ -1,4 +1,4 @@
-package application;
+package ch.bbw.pr.formelrad;
 
 import java.io.FileInputStream;
 
